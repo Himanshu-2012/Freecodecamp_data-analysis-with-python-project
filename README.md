@@ -1,4 +1,4 @@
-# fcc-data-analysis-with-python
+# Freecodecamp-data-analysis-with-python
 ## Context
 My 5 Data Analysis projects that I've built as part of my freeCodeCamp assignment.
 <br>
